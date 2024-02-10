@@ -14,6 +14,7 @@ Here you will find our socialmedia
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/official.crazycast)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/crazycast.official)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@crazycast.official)
+[![Twitter](https://img.shields.io/badge/Twitter-4D93FE?style=flat-square&logo=twitter&logoColor=white)](https://x.com/off_crazycast)
 </br>
 
 ## 🔧 Technologies that allow us to act:
