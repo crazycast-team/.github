@@ -34,3 +34,9 @@ Here you will find our socialmedia
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=jetbrains&logoColor=white)
+
+## Our repositories 📦
+
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=crazycast-team&repo=CrazyMotd&border_color=126CF7&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=126CF7)](https://github.com/crazycast-team/CrazyMotd)
+
+
